@@ -1,0 +1,6 @@
+{
+  "name": "Bảng Thuật Ngữ AI Chuẩn Quốc Tế & Phát Âm Anh - Anh",
+  "description": "Bảng tra cứu 15 thuật ngữ Trí tuệ nhân tạo (AI) kèm phát âm giọng Anh - Anh tone trầm chuẩn xác, phiên âm IPA, câu ví dụ và tính năng xuất mã HTML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
